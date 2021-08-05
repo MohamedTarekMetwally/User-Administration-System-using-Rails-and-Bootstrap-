@@ -2,8 +2,12 @@
 
 ###### here is the GUI of the project
 
-## Table of the friend you have
+## LOGIN PAGE
+![2021-08-06 (5)](https://user-images.githubusercontent.com/51732423/128434240-e61d75c9-4c52-48a0-93cd-1ee0d2e32465.png)
 
+
+
+## Table of the friend you have
 ![2021-08-06](https://user-images.githubusercontent.com/51732423/128433697-d4f4ec75-6cff-454c-811f-175b18a8f64d.png)
 
 
