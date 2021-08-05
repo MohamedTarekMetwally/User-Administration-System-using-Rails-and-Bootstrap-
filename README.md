@@ -1,6 +1,6 @@
 # USER ADMINISTRATION SYSTEM
 
-### here is the GUI of the project
+### Here is the GUI of the project
 
 ## LOGIN PAGE
 ![2021-08-06 (5)](https://user-images.githubusercontent.com/51732423/128434240-e61d75c9-4c52-48a0-93cd-1ee0d2e32465.png)
